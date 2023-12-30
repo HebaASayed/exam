@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         String m1 = "hello";
         String m2 = "hello";
+        String m3 = "hello";
+
+        String b1_m1 = "hello";
     }
 }
